@@ -26,12 +26,12 @@
 
 ## 📊 GitHub Stats
 
-[![Lines of Code](https://tokei.rs/b1/github/SEU_USER?category=code)](https://github.com/SEU_USER)
+[![Lines of Code](https://tokei.rs/b1/github/ArthurM-Maciel?category=code)](https://github.com/ArthurM-Maciel)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true&hide=stars)](https://github.com/SEU_USER)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SEU_USER)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ArthurM-Maciel&show_icons=true&theme=tokyonight&hide_border=true&hide=stars)](https://github.com/ArthurM-Maciel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurM-Maciel&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ArthurM-Maciel)
 
-[![Streak](https://streak-stats.demolab.com?user=SEU_USER&theme=tokyonight&hide_border=true)](https://github.com/SEU_USER)
+[![Streak](https://streak-stats.demolab.com?user=ArthurM-Maciel&theme=tokyonight&hide_border=true)](https://github.com/ArthurM-Maciel)
 
 ---
 

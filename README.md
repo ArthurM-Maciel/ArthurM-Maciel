@@ -24,17 +24,9 @@
 
 ---
 
-## 🏆 Trophies
+## 📊 Metrics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArthurM-Maciel&theme=tokyonight&column=4&no-frame=true&margin-w=8&margin-h=8)](https://github.com/ArthurM-Maciel)
-
----
-
-## 📈 Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArthurM-Maciel&theme=tokyo-night&hide_border=true&area=true)
-
-[![Streak](https://streak-stats.demolab.com?user=ArthurM-Maciel&theme=tokyonight&hide_border=true)](https://github.com/ArthurM-Maciel)
+![metrics](./metrics.svg)
 
 ---
 
